@@ -1,5 +1,5 @@
 # 💫 About Me:
-Desenvolvedor Back-end<br>Experiência com PHP, Laravel e CodeIgniter<br>Desenvolvedor Full Stack<br>Estudante ServiceNow<br>
+Consultor técnico ServiceNow<br>Desenvolvedor Back-end<br>Experiência com PHP, Laravel e CodeIgniter<br>Desenvolvedor Full Stack<br>
 
 
 ## 🌐 Socials:
